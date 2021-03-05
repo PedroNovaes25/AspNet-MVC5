@@ -1,0 +1,6 @@
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
