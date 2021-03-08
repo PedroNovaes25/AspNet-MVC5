@@ -12,9 +12,9 @@ namespace OdeToFood.Web.Controllers
 
         private IRestaurantData restaurantContext;
 
-        public HomeController()
+        public HomeController(IRestaurantData restaurantContext)
         {
-            restaurantContext = new InMemoryRestaurantData();
+            this.restaurantContext = restaurantContext;
         }
 
         public ActionResult Index()
