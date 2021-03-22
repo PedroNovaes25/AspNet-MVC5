@@ -4,3 +4,9 @@
 \\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
 \\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
 \\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete

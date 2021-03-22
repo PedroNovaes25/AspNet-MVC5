@@ -9,9 +9,11 @@ namespace OdeToFood.Data.Models
 {
     public class Restaurant
     {
+        [Key]
         public int Id { get; set; }
 
         [Required]
+        [MaxLength(255)]
         public string Name { get; set; }
 
         public CuisineType Cuisine { get; set; }

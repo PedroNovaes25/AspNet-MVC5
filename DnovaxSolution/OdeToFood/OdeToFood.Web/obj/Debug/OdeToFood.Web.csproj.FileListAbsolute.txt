@@ -108,3 +108,8 @@
 \\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\System.Numerics.Vectors.xml
 \\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 \\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll.config
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+\\fderivssv10\Folder Redirection$\pedro.novaes\Desktop\AspNet-MVC5\DnovaxSolution\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml
